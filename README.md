@@ -18,4 +18,7 @@ What is done:
 6) reset button. You can always start again with the same generated field.
 7) random. You can always start again with new generated field. 
 8) min field size is 1x1. max 99x99. So, textbars a bit limited, so there must be always be one digit,and no more than 2 digits.
+9) save file
+
+If you want to play/test, just run swapTest.jar :)
 
